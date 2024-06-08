@@ -1,2 +1,14 @@
-praticando html
-manipulando elementos do doom
+https://www.mxcursos.com/blog/como-consultar-cep-utilizando-javascript/
+
+
+
+https://horadecodar.com.br/mascara-para-formatar-cnpj-com-javascript/
+
+
+https://pt.stackoverflow.com/questions/138072/m%C3%A1scaras-com-jquery-telefone-cpf-e-cnpj
+
+
+
+
+https://viacep.com.br/exemplo/jquery/
+
